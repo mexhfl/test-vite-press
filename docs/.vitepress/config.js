@@ -1,6 +1,7 @@
 module.exports = {
   title: 'TEST DOC',
   description: 'Just playing around.',
+  base:'/testVitepress/',
   head: [
     ['meta', {name: 'referrer', content: 'no-referrer'}],
   ],
